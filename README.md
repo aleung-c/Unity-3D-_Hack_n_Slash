@@ -8,3 +8,6 @@ Technically speaking, every major aspect of Unity development was used in this g
 
 Concerning the visual parts of the game, every asset in this game are free assets from the Unity asset store, or found on the web. This concerns 3d models, animations, particle effets, musics, sounds, and UI sprites.
 
+![Alt text](./cover/rush_01_screen1.png "hack n slash screenshot 1")
+
+![Alt text](./cover/rush_01_screen2.png "hack n slash screenshot 2")
