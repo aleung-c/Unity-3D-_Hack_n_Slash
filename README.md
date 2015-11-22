@@ -6,8 +6,8 @@ Loots were required too. In this idea, enemies drop weapons that the player can 
 
 Technically speaking, every major aspect of Unity development was used in this game. Every game system is hand-scripted, using every technic available in unity scripting, that are for example singletons, and coroutines. Many coroutines have been implemented in this project, around twenty, to relieve the maximum stress possible on updates calls. For examples, all UI and distance checks are made in coroutines spaced by 0.8 sec.
 
-Concerning the visual parts of the game, every asset in this game are free assets from the Unity asset store, or found on the web. This concerns 3d models, animations, particle effets, musics, sounds, and UI sprites.
-
 ![Alt text](./cover/rush_01_screen1.png "hack n slash screenshot 1")
 
 ![Alt text](./cover/rush_01_screen2.png "hack n slash screenshot 2")
+
+Every asset in this game are free assets from the Unity asset store, or found on the web. This includes 3d models, animations, particle effets, musics, sounds, and UI sprites.
