@@ -11,3 +11,11 @@ Technically speaking, every major aspect of Unity development was used in this g
 ![Alt text](./cover/rush_01_screen2.png "hack n slash screenshot 2")
 
 Every asset in this game are free assets from the Unity asset store, or found on the web. This includes 3d models, animations, particle effets, musics, sounds, and UI sprites.
+
+Game controls:
+- Click on an enemy to attack it.
+- C: character screens (stats and point allocation)
+- K: skill panels. Drag skills in slots to activate them.
+- 1, 2, 3, 4: use skills.
+- Y: Cheat key: gives one level.
+- U: Cheat key: drops a weapon.
