@@ -1,18 +1,18 @@
-/rush01/[Tt]emp/
-/rush01/[Oo]bj/
-/rush01/[Bb]uild
-/rush01/[Ll]ibrary/
-/rush01/sysinfo.txt
+/HacknSlash/[Tt]emp/
+/HacknSlash/[Oo]bj/
+/HacknSlash/[Bb]uild
+/HacknSlash/[Ll]ibrary/
+/HacknSlash/sysinfo.txt
 
 [Ee]xported[Oo]bj/
-/rush01/*.userprefs
-/rush01/*.csproj
-/rush01/*.pidb
-/rush01/*.suo
-/rush01/*.sln*
-/rush01/*.user
-/rush01/*.unityproj
-/rush01/*.booproj
+/HacknSlash/*.userprefs
+/HacknSlash/*.csproj
+/HacknSlash/*.pidb
+/HacknSlash/*.suo
+/HacknSlash/*.sln*
+/HacknSlash/*.user
+/HacknSlash/*.unityproj
+/HacknSlash/*.booproj
 
 .DS_Store*
 ._*
