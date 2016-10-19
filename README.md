@@ -14,6 +14,7 @@ Every asset in this game are free assets from the Unity asset store, or found on
 
 Game controls:
 - Click on an enemy to attack it.
+- I: inventory screen (equip weapons)
 - C: character screens (stats and point allocation)
 - K: skill panels. Drag skills in slots to activate them.
 - 1, 2, 3, 4: use skills.
